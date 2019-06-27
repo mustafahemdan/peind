@@ -1,3 +1,6 @@
+<?php 
+	 
+$up ="
 UPDATE requset_tawasol
 SET cal_user_id =77, cal_user_name='wael'
 WHERE id in(
@@ -145,4 +148,7 @@ WHERE id in(
 66043,
 66086,
 66105,
-66111) 
+66111)";
+	
+	
+?>
